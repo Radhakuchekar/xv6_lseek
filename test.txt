@@ -1,0 +1,5 @@
+HI here we go 
+this is testing file
+this file will get copied into 
+filecopy.txt file after execution of 
+lseek_test2.c 
